@@ -1,13 +1,21 @@
 ---
-title: Quickstart
+title: Mulai Menggunakan
 date: Last Modified
-permalink: /quickstart/
+permalink: /mulai/
 eleventyNavigation:
-  key: quickstart
+  key: mulai
   order: 1
-  title: Quickstart
+  title: Mulai Menggunakan
 ---
 
-[Quickstart dengan React](/react/)
-Quickstart dengan Next
-Quickstart dengan JavaScript
+Mulai menggunakan Qore dalam beberapa tahap.
+
+## Langkah Pertama: Menyiapkan Proyek Qore
+
+Buat proyek baru dengan menekan tombol "Create project" tepat setelah registrasi dan login.
+
+![new project](/content/images/Qore-NewProject.png)
+
+## Langkah kedua: Masuk ke Proyek Qore
+
+Masuk ke proyek Qore yang baru dibuat.

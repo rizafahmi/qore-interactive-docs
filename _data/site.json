@@ -1,7 +1,6 @@
 {
-  "name": "Qore Interactive Documentation",
+  "name": "Qore Documentation",
   "description": "Getting started tutorial",
-  "description": "Interactive documentation",
   "footer": "Made with ❤ in Indonesia",
   "url": "https://docs.qore.sh",
   "githubUrl": "https://github.com/rizafahmi/qore-interactive-docs",
