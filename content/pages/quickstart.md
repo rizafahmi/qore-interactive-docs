@@ -26,7 +26,7 @@ Komponen utama Qore adalah data dalam bentuk tabular atau tabel. Kita dapat meng
 
 ## Langkah ketiga: Membuat Table Baru
 
-Buat sebuah table baru untuk membuat table yang akan menyimpan data dengan menekan tombol "+" diatas table users.
+Buat sebuah table baru untuk membuat table yang akan menyimpan data dengan menekan tombol "+" diatas table users. Namakan table baru dengan "expenditures".
 
 ![New Table](/content/images/Qore-NewTable.png)
 
@@ -34,3 +34,16 @@ Buat sebuah table baru untuk membuat table yang akan menyimpan data dengan menek
 
 Kolom dapat menyimpan berbagai tipe data seperti bilangan bulat (integer), bilangan desimal (float), _file_, tanggal dan jam, JSON, teks dan banyak lagi.
 
+![Qore Table](/content/images/Qore-Table.png)
+
+### Mengisi Data
+
+Dengan Qore, kita tidak perlu membuat tampilan _back office_ atau _content management_, bisa langsung diisi seperti airtable atau _spreadsheet_.
+
+Untuk memasukkan memasukkan data (insert) dapat dilakukan dengan menekan tombol “Add Row” atau tombol “+”.
+
+Sedangkan untuk mengubah isi data bisa langsung dilakukan dengan mengarahkan kursor ke data yang ingin diubah.
+
+Dam untuk menghapus data dengan mengarahkan kursor ke kolom id dan memilih “Delete this row” atau untuk menghapus seluruh data di table dengan mengarahkan kursor ke header kolom id, centang semua row yang ingin dihapus dan pilih “Delete selected row”.
+
+![Fill Table](/content/images/Qore-FillTable.png)
