@@ -26,7 +26,13 @@ Komponen utama Qore adalah data dalam bentuk tabular atau tabel. Kita dapat meng
 
 ## Langkah ketiga: Membuat Table Baru
 
-Buat sebuah table baru untuk membuat table yang akan menyimpan data dengan menekan tombol "+" diatas table users. Namakan table baru dengan "expenditures".
+Buat sebuah table baru untuk membuat table yang akan menyimpan data dengan menekan tombol "+" diatas table users, pilih "Add new table" dan kita mendapatkan tiga pilihan:
+
+- **Serial primary key** --
+- **UUID primary key** --
+- **String primary key** --
+
+Namakan table baru dengan "bookmarks".
 
 ![New Table](/content/images/Qore-NewTable.png)
 
@@ -47,3 +53,5 @@ Sedangkan untuk mengubah isi data bisa langsung dilakukan dengan mengarahkan kur
 Dam untuk menghapus data dengan mengarahkan kursor ke kolom id dan memilih “Delete this row” atau untuk menghapus seluruh data di table dengan mengarahkan kursor ke header kolom id, centang semua row yang ingin dihapus dan pilih “Delete selected row”.
 
 ![Fill Table](/content/images/Qore-FillTable.png)
+
+## Langkah keempat: Memberikan Hak Akses

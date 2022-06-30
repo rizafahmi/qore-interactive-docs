@@ -27,7 +27,17 @@ Sebagai _platform_ _low code_, Qore dapat dikembangkan lebih lanjut dengan menam
 9. _App builder_ dapat dikembangkan lebih kompleks dengan _custom components_
 
 ## Keunggulan Menggunakan Qore
+
 - Otomasi pengembangan di sisi _backend_ dan _frontend_
-- Otomasi infrastruktur dan skalabilitas komputasi awan 
+- Otomasi infrastruktur dan skalabilitas komputasi awan
 - Fokus ke pengembangan produk, aplikasi atau sistem internal
 
+# Organisasi Dokumentasi
+
+Dokumentasi ini terdiri dari beberapa bagian:
+
+- Tutorial
+- Referensi
+- _How To_
+
+Tidak serta merta harus berurutan, namun bisa digunakan sebagai _roadmap_ untuk belajar Feedloop Qore.
