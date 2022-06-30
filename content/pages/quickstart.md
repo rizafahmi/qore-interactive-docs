@@ -1,5 +1,5 @@
 ---
-title: Mulai Menggunakan
+title: 🌩️ Mulai Menggunakan
 date: Last Modified
 permalink: /mulai/
 eleventyNavigation:

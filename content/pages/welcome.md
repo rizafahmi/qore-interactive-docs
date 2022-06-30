@@ -1,5 +1,5 @@
 ---
-title: Selamat Datang
+title: 🤝 Selamat Datang
 date: Last Modified
 permalink: /
 eleventyNavigation:
@@ -36,6 +36,7 @@ Sebagai _platform_ _low code_, Qore dapat dikembangkan lebih lanjut dengan menam
 
 Dokumentasi ini terdiri dari beberapa bagian:
 
+- Mulai menggunakan (Quickstart)
 - Tutorial
 - Referensi
 - _How To_
