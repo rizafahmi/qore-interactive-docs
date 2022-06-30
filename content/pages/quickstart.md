@@ -50,7 +50,7 @@ Untuk memasukkan memasukkan data (insert) dapat dilakukan dengan menekan tombol 
 
 Sedangkan untuk mengubah isi data bisa langsung dilakukan dengan mengarahkan kursor ke data yang ingin diubah.
 
-Dam untuk menghapus data dengan mengarahkan kursor ke kolom id dan memilih “Delete this row” atau untuk menghapus seluruh data di table dengan mengarahkan kursor ke header kolom id, centang semua row yang ingin dihapus dan pilih “Delete selected row”.
+Dan untuk menghapus data dengan mengarahkan kursor ke kolom id dan memilih “Delete this row” atau untuk menghapus seluruh data di table dengan mengarahkan kursor ke header kolom id, centang semua row yang ingin dihapus dan pilih “Delete selected row”.
 
 ![Fill Table](/content/images/Qore-FillTable.png)
 
