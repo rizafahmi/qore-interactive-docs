@@ -5,7 +5,7 @@ permalink: /mulai/
 eleventyNavigation:
   key: mulai
   order: 1
-  title: Mulai Menggunakan
+  title: 🌩️ Mulai Menggunakan
 ---
 
 Mulai menggunakan Qore dalam beberapa tahap.

@@ -5,7 +5,7 @@ permalink: /
 eleventyNavigation:
   key: SelamatDatang
   order: 0
-  title: Selamat Datang
+  title: 🤝 Selamat Datang
 ---
 
 Qore adalah **low-code** _platfrom_ yang dapat mempermudah dalam pengembangan aplikasi. Dapat berfungsi sebagai basis data atau _database_ dan mengelolanya cukup sederhana layaknya _spreadsheet_.
