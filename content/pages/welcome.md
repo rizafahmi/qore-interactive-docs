@@ -1,7 +1,7 @@
 ---
 title: 🤝 Selamat Datang
 date: Last Modified
-permalink: /
+permalink: /index.html
 eleventyNavigation:
   key: SelamatDatang
   order: 0
@@ -37,7 +37,7 @@ Sebagai _platform_ _low code_, Qore dapat dikembangkan lebih lanjut dengan menam
 Dokumentasi ini terdiri dari beberapa bagian:
 
 - [Mulai menggunakan](/mulai/) (Quickstart)
-- Tutorial
+- [Tutorial](/tutorial/)
 - Referensi
 - _How To_
 

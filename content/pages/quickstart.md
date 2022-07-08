@@ -1,7 +1,7 @@
 ---
 title: 🌩️ Mulai Menggunakan
 date: Last Modified
-permalink: /mulai/
+permalink: /mulai/index.html
 eleventyNavigation:
   key: mulai
   order: 1
