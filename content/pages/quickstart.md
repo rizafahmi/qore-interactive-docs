@@ -100,3 +100,5 @@ Klik "Save" lalu dilanjutkan dengan "Save & Deploy" untuk meluncurkan aplikasi a
 Akses url aplikasi yang sudah diluncurkan dan lihat hasilnya.
 
 ![deploy](/content/images/Qore-App-8.png)
+
+![deployed app](/content/images/Qore-App-Published.png)
