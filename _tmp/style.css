@@ -684,7 +684,7 @@ img:hover {
 }
 
 .prose pre code {
-  overflow-x: auto !important
+  overflow-x: auto !important;
 }
 
 .prose .footer-nav a {

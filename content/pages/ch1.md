@@ -1,12 +1,12 @@
 ---
-title: 1️⃣ Proyek Qore
+title: 1️⃣ Dashboard Qore
 date: Last Modified
 permalink: /tutorial/ch1/index.html
 eleventyNavigation:
   parent: Tutorial
   key: ch1
   order: 1
-  title: 1️⃣ Proyek Qore
+  title: 1️⃣ Dashboard Qore
 ---
 
 Mari kita mempersiapkan proyek baru Qore. Proyek merupakan lapisan teratas dari Feedloop Qore. Dapat digunakan untuk menyimpan informasi proyek yang dikerjakan. Sebuah proyek dapat memiliki banyak table/view, pipeline ataupun lebih dari satu aplikasi.
