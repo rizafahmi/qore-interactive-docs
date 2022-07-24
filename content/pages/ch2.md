@@ -14,7 +14,7 @@ Setelah membuat proyek baru, dan masuk kedalamnya dengan memilih proyek yang bar
 ![Empty Project](/content/images/Qore-Tutorial--EmptyProject.png)
 
 Ketika pertama kali membuka proyek Qore, maka secara otomatis kita akan berada di menu Data, yang merupakan komponen utama dari Feedloop Qore. Kita dapat memanipulasi data layaknya _spreadsheet_ dengan cara membuat tabel baru dan memanipulasi data didalamnya.
-Ketika pertama kali proyek Qore dibuat, secara otomatis Qore sudah menyediakan tabel pertama yaitu tabel users atau pengguna. Tabel users dapat digunakan untuk mengelola pengguna yang akan menggunakan aplikasi yang akan kita buat. Kita akan membahas tentang tabel users ini nanti di bagian yang lain.
+Proyek Qore sudah menyediakan tabel pertama yaitu tabel users atau pengguna. Tabel users dapat digunakan untuk mengelola pengguna yang akan menggunakan aplikasi yang akan kita buat. Kita akan membahas tentang tabel users ini nanti di bagian yang lain.
 
 ## Membuat Tabel Baru
 
@@ -27,6 +27,8 @@ Untuk membuat tabel yang akan menyimpan data dapat dilakukan dengan menekan tomb
 ![New Table](/content/images/Qore-Tutorial--TableNew.png)
 
 Dan berhubung kita tidak atau belum akan menggunakan kunci unik dalam aplikasi, kita akan pilih yang paling sederhana yaitu Serial Primary Key saja.
+
+Kita akan membuat aplikasi untuk menyimpan informasi menarik yang didapat dari internet. Data yang akan disimpan diantaranya adalah judul, deskripsi, tautan dan lain sebagainya.
 
 Untuk nama tabel kita berikan saja "bookmarks" sebagai nama tabelnya dan siapkan kolom beserta tipe data seperti berikut:
 
