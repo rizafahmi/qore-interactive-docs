@@ -1,12 +1,12 @@
 ---
-title: 2️⃣ Proyek Qore
+title: 2️⃣ Mempersiapkan Data
 date: Last Modified
 permalink: /tutorial/ch2/index.html
 eleventyNavigation:
   parent: Tutorial
   key: ch2
   order: 2
-  title: 2️⃣ Proyek Qore
+  title: 2️⃣ Mempersiapkan Data
 ---
 
 Setelah membuat proyek baru, dan masuk kedalamnya dengan memilih proyek yang baru dibuat dari dashboard, akan muncul tampilan seperti berikut. Proyek Qore memiliki menu di sebelah kiri yang terdiri dari Data (Table), Apps, Pipeline, API Docs dan Setting.
@@ -34,7 +34,7 @@ Untuk nama tabel kita berikan saja "bookmarks" sebagai nama tabelnya dan siapkan
 
 - **title** dengan tipe text
 - **description** dengan tipe text
-- **url** dengan tipe text dan tambahkan opsi unik (unique) 
+- **url** dengan tipe text dan tambahkan opsi unik (unique)
 - **date_published** dengan tipe datetime
 - **status** dengan tipe select beserta beberapa pilihan status
 
@@ -43,6 +43,10 @@ Untuk nama tabel kita berikan saja "bookmarks" sebagai nama tabelnya dan siapkan
 Berikut keseluruhan struktur tabelnya.
 
 ![Qore Table Structure](/content/images/Qore-Table--Fields.png)
+
+## Tipe Kolom
+
+[//]: <> (TODO)
 
 ## Memasukkan Data
 
